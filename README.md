@@ -5,4 +5,4 @@ In this proyect you have to order a stack of numbers.
 
 The compiclacion is only have other stack to move the numbers, only can use some movemenst and you have a limitation of number of movements.
 
-In this versión I found a solution verry efficient. It do under 5000 moves to 500 elements.
+In this versión I found a solution verry efficient. It do under 5000 moves to 500 elements. It's over 125% of efficient respect the best note of subjet.
